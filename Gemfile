@@ -50,7 +50,7 @@ gem 'bootstrap-sass'
 gem 'devise'
 gem 'gibbon'
 gem 'high_voltage'
-gem 'pg'
+
 gem 'puma'
 gem 'stripe'
 gem 'sucker_punch'

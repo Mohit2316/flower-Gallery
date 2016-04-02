@@ -17,7 +17,7 @@ development:
   authorization: roles
   form_builder: false
   pages: about+users
-  layouts: shop_homepage
+  layouts: business_frontpage
   locale: none
   analytics: 
   deployment: 
